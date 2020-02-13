@@ -7,7 +7,7 @@
     </el-container>
    </div>
 </template>
-
+<!---->
 <script>
     export default {
         name: "xuan_ping"
